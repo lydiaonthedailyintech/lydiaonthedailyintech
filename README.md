@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available **here 👇🏼 on GitHub**
 
-- ⚡ Fun fact **🎧 Love Listening to Music 🎧**
+- ⚡ Fun fact **🎧 Love Listening to Music while watching news on TikTok (😁) 🎧**
 
 
 <p align="left">
