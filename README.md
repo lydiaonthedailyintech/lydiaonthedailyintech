@@ -1,4 +1,4 @@
-<h1 align="center">👋  Hi, Welcome To MyGitHub! 👋</h1>
+<h1 align="center">👋  Hi, Welcome To myGitHub! 👋</h1>
 <h3 align="center">I'm Lydia D, an aspiring Cloud Application Developer</h3>
 <image align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGJx4WQLeRflcx5gTEbzETbmwTeiQCyKi7nA&s">
 
