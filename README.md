@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **to build and develop cloud applications**
 
-- 👨‍💻 All of my projects are available at [my GitHub](my GitHub)
+- 👨‍💻 All of my projects are available **here 👇🏼 on GitHub**
 
 - ⚡ Fun fact **🎧 Love Listening to Music 🎧**
 
